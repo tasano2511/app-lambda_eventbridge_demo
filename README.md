@@ -22,6 +22,9 @@
 new screen added>
 ![GitHub Logo](https://github.com/tasano2511/lambda_eventbridge_demo/blob/main/test.PNG)
 
+2nd image added>
+![image](https://user-images.githubusercontent.com/32722949/107996192-ccbe9700-6fad-11eb-9fab-d7daadc64a0f.png)
+
 *Domain 1: Design Resilient Architectures*
 
   1.1 - Design a multi-tier architecture solution
