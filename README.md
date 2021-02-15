@@ -1,19 +1,5 @@
 # lambda_eventbridge_demo
 
-# AWS SAA-C02 Study Guide
-This study guide will help you pass the newer AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
-
-  1. Stephane Maarek's <a href="https://links.datacumulus.com/aws-certified-sa-associate-coupon">Ultimate AWS Certified Solutions Architect Associate 2021 course</a> (permanent discount available through this link) or A Cloud Guru's <a href="https://acloud.guru/learn/aws-certified-solutions-architect-associate">AWS Certified Solutions Architect Associate SAA-C02 course</a>
-  2. The FAQs for the most critical services, included in the recommended reading list below
-  3. Tutorials Dojo's <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/">AWS Certified Solutions Architect Associate Practice Exams </a>
-  4. Andrew Brown's <a href="https://www.youtube.com/watch?v=Ia-UEYYR44s">AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course
-</a> 
-
-*Notes*:
-If at any point you find yourself feeling uncertain of your progress and in need of more time, you can postpone your AWS exam date. Be sure to also keep up with the ongoing discussions in <a href="https://reddit.com/r/AWSCertifications/">r/AWSCertifications</a> as you will find relevant exam tips, studying material, and advice from other exam takers. Before experimenting with AWS, it's very important to be sure that you know what is <a href="https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc">free</a> and what isn't. Relevant Free Tier FAQs can be found <a href="https://aws.amazon.com/free/free-tier-faqs/">here</a>. Finally, Udemy often has their courses go on sale from time to time. It might be worth waiting to purchase either the Tutorial Dojo practice exam or Stephane Maarek's course depending on how urgently you need the content.
-
-
-
 ## Table of Contents
 1. <a href="#introduction">Introduction</a>
 
@@ -24,67 +10,6 @@ If at any point you find yourself feeling uncertain of your progress and in need
 4. <a href="#cloudfront">CloudFront</a>
 
 5. <a href="#snowball">Snowball</a>
-
-6. <a href="#storage-gateway">Storage Gateway</a>
-
-7. <a href="#elastic-compute-cloud-ec2">Elastic Compute Cloud (EC2)</a>
-
-8. <a href="#elastic-block-store-ebs">Elastic Block Store (EBS)</a>
-
-9. <a href="#elastic-network-interfaces-eni">Elastic Network Interfaces (ENI)</a>
-
-10. <a href="#security-groups">Security Groups</a>
-
-11. <a href="#web-application-firewall-waf">Web Application Firewall (WAF)</a>
-
-12. <a href="#cloudwatch">CloudWatch</a>
-
-13. <a href="#cloudtrail">CloudTrail</a>
-
-14. <a href="#elastic-file-system-efs">Elastic File System (EFS)</a>
-
-15. <a href="#amazon-fsx-for-windows">Amazon FSx for Windows</a>
-
-16. <a href="#amazon-fsx-for-lustre">Amazon FSx for Lustre</a>
-
-17. <a href="#relational-database-service-rds">Relational Database Service (RDS)</a>
-
-18. <a href="#aurora">Aurora</a>
-
-19. <a href="#dynamodb">DynamoDB</a>
-
-20. <a href="#redshift">Redshift</a>
-
-21. <a href="#elasticache">ElastiCache</a>
-
-22. <a href="#route53">Route53</a>
-
-23. <a href="#elastic-load-balancers-elb">Elastic Load Balancers (ELB)</a>
-
-24. <a href="#auto-scaling">Auto Scaling</a>
-
-25. <a href="#virtual-private-cloud-vpc"> Virtual Private Cloud (VPC)</a>
-
-26. <a href="#simple-queuing-service-sqs"> Simple Queuing Service (SQS)</a>
-
-27. <a href="#simple-workflow-service-swf"> Simple Workflow Service (SWF)</a>
-
-28. <a href="#simple-notification-service-sns"> Simple Notification Service (SNS)</a>
-
-29. <a href="#kinesis"> Kinesis </a>
-
-30. <a href="#lambda"> Lambda </a>
-
-31. <a href="#api-gateway"> API Gateway </a>
-
-32. <a href="#cloudformation">CloudFormation </a>
-
-33. <a href="#cloudformation">ElasticBeanstalk</a>
-
-34. <a href="#aws-organizations">AWS Organizations</a>
-
-35. <a href="#miscellaneous">Miscellaneous</a>
-
 
 
 ## Introduction
