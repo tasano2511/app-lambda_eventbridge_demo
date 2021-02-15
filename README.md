@@ -20,7 +20,7 @@
 ![Screen Shot 2020-06-05 at 2 49 08 PM](https://user-images.githubusercontent.com/13093517/83912374-c2b87900-a73b-11ea-9691-b38383b43ff9.png)
 
 new screen added>
-https://github.com/tasano2511/lambda_eventbridge_demo/blob/main/test.PNG
+![GitHub Logo](https://github.com/tasano2511/lambda_eventbridge_demo/blob/main/test.PNG)
 
 *Domain 1: Design Resilient Architectures*
 
