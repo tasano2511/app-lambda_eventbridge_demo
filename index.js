@@ -1,6 +1,8 @@
 /*
 simple lambda function that list buckets in s3
  - all pkgs must be defined outside of the handler
+ - they must be zipped (function.zip) and uploaded
+ - OR if more than 50MB, use s3
 */
 
 
