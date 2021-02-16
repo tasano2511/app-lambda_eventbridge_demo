@@ -23,7 +23,7 @@ def lambda_handler(event, context):
     response = sns_client.publish(
         #PhoneNumber=event["phone_number"],
         PhoneNumber='18043811279',
-        Message='Hi there! This is a test message sent with Amazon SNS via EventBridge rule cron(0,5 13 ? * SAT,SUN,MON *),
+        Message='Hi there! This is a test message sent from lambda_function.py w/ Amazon SNS publish, event triggered via EventBridge rule cron(0,5 13 ? * MON-SAT *)',
         MessageAttributes={
             'AWS.SNS.SMS.SenderID': {
                 'DataType': 'String',
@@ -36,4 +36,5 @@ def lambda_handler(event, context):
         }
     )
 
-    logger.info(r
+    logger.info(response)
+    return 'OK'
