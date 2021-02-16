@@ -14,9 +14,7 @@
 
 ## lambda function and execution result
 
-
-2nd image added>
-![image](https://user-images.githubusercontent.com/32722949/107996192-ccbe9700-6fad-11eb-9fab-d7daadc64a0f.png)
+![image](https://user-images.githubusercontent.com/32722949/108004583-45305280-6fc4-11eb-90fe-416a83184241.png)
 
 ## Identity Access Management (IAM)
 
@@ -25,8 +23,7 @@
 IAM offers a centralized hub of control within AWS and integrates with all other AWS Services. IAM comes with the ability to share access at various levels of permission and it supports the ability to use identity federation (the process of delegating authentication to a trusted external party like Facebook or Google) for temporary or limited access. IAM comes with MFA support and allows you to set up custom password rotation policy across your entire organization. 
 It is also PCI DSS compliant i.e. payment card industry data security standard. (passes government mandated credit card security regulations).
 
-![Screen Shot 2020-06-06 at 10 49 48 PM](https://user-images.githubusercontent.com/13093517/83959193-11533980-a848-11ea-9d03-d8133e0aaa86.png)
-
+![image](https://user-images.githubusercontent.com/32722949/108004645-67c26b80-6fc4-11eb-87c6-cd5a8332b168.png)
 
 
 ## Simple Storage Service (S3)
@@ -42,6 +39,4 @@ S3 provides developers and IT teams with secure, durable, and highly-scalable ob
 
 This makes it a perfect candidate to host files or directories and a poor candidate to host databases or operating systems. The following table highlights key differences between object and block storage:
 
-![Screen Shot 2020-06-05 at 3 34 57 PM](https://user-images.githubusercontent.com/13093517/83915925-352c5780-a742-11ea-975b-53d4e5d07e7c.png)
-
-
+![image](https://user-images.githubusercontent.com/32722949/107996192-ccbe9700-6fad-11eb-9fab-d7daadc64a0f.png)
