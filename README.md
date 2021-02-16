@@ -1,18 +1,5 @@
 # lambda_eventbridge_demo
 
-# Contents
-
-- [Title](#title)
-- [Big Title](#big-title)
-- [Medium Title](#medium-title) 
-- [Small Title](#small-title) 
-
-# Title
-
-## Big Title
-
-
-
 ## Table of Contents
 - [lambda function designer](#lambda-function-designer)
 - [Execution result](#execution-result)
