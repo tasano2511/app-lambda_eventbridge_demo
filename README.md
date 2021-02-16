@@ -1,11 +1,11 @@
 # lambda_eventbridge_demo
 
 ## Table of Contents
-1. <a href="#introduction">lambda function designer</a>
+1. <a href="#lambda function designer">lambda function designer</a>
 
-2. <a href="#identity-access-management-iam">Execution result</a>
+2. <a href="#Execution result">Execution result</a>
 
-3. <a href="#simple-storage-service-s3">EventBridge rule</a>
+3. <a href="#EventBridge rule">EventBridge rule</a>
 
 
 ## lambda function designer
