@@ -8,6 +8,7 @@ This function does below>
 - [lambda function designer](#lambda-function-designer)
 - [Execution result](#execution-result)
 - [EventBridge rule](#eventbridge-rule) 
+- [CloudTrail event history](#cloudtrail-event-history) 
 
 ## lambda function designer
 ![image](https://user-images.githubusercontent.com/32722949/108004583-45305280-6fc4-11eb-90fe-416a83184241.png)
