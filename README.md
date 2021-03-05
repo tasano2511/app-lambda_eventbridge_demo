@@ -1,8 +1,5 @@
 # lambda_eventbridge_demo
-This function does below>
-- simply prints out 'Hello World' in the console
-- It is triggered by the eventbridge (aka. cloudWatch event) 
-- go to CloudTrail>event history and check CreateLogStream event
+This project is to show the simplest lambda function 'hello world' triggered by the EventBridge, and check the event history in CloudTrail
 
 ## Table of Contents
 - [lambda function designer](#lambda-function-designer)
