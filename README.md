@@ -1,4 +1,7 @@
 # lambda_eventbridge_demo
+This function does below>
+- simply prints out 'Hello World'
+- It is triggered by the eventbridge (aka. cloudWatch event) 
 
 ## Table of Contents
 - [lambda function designer](#lambda-function-designer)
