@@ -22,3 +22,4 @@ This function does below>
 ![image](https://user-images.githubusercontent.com/32722949/108005828-ce955400-6fc7-11eb-881b-432299d35e00.png)
 
 ## CloudTrail event history
+![image](https://user-images.githubusercontent.com/32722949/110119380-bb390580-7d89-11eb-9fa0-117c31f5e77b.png)
