@@ -19,3 +19,5 @@ This function does below>
 ## EventBridge rule
 ![image](https://user-images.githubusercontent.com/32722949/107996192-ccbe9700-6fad-11eb-9fab-d7daadc64a0f.png)
 ![image](https://user-images.githubusercontent.com/32722949/108005828-ce955400-6fc7-11eb-881b-432299d35e00.png)
+
+## CloudTrail event history
